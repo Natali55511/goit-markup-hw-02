@@ -231,7 +231,9 @@ text-decoration: none;
     background-color: var(--background-color-btn-portfolio);
     border-radius: 4px;
 }
-.bottom-filter.current {
+
+.bottom-filter:hover,
+.bottom-filter:focus {
     color: var(--color-accent);
     background-color: var(--background-color-current);
     box-shadow: var(--portfolio-btn-shadow);
