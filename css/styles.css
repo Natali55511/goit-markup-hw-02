@@ -214,7 +214,7 @@ text-decoration: none;
  /*Оформление страницы "Портфолио"*/
 
 .bottom-filter {
-    font-family: var(--primary-color);
+    font-family: var(--primary-font);
     font-style: normal;
     cursor: pointer;
     font-weight: 500;
